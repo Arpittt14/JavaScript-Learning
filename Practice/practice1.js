@@ -9,3 +9,5 @@ const product = {
     tags : ["Pen", "Stationary", "Ball Pen"],
     ratings : 4.5 
 }
+
+console.log(product);
